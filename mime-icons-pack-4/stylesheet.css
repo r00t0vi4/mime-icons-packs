@@ -1,0 +1,521 @@
+.mime {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.mime-7z {
+    width: 16px;
+    height: 16px;
+    background-position: 0 0;
+}
+
+.mime-ai {
+    width: 16px;
+    height: 16px;
+    background-position: -16px 0;
+}
+
+.mime-aiff {
+    width: 16px;
+    height: 16px;
+    background-position: -32px 0;
+}
+
+.mime-asc {
+    width: 16px;
+    height: 16px;
+    background-position: -48px 0;
+}
+
+.mime-audio {
+    width: 16px;
+    height: 16px;
+    background-position: -64px 0;
+}
+
+.mime-bin {
+    width: 16px;
+    height: 16px;
+    background-position: -80px 0;
+}
+
+.mime-bz2 {
+    width: 16px;
+    height: 16px;
+    background-position: -96px 0;
+}
+
+.mime-c {
+    width: 16px;
+    height: 16px;
+    background-position: -112px 0;
+}
+
+.mime-cfc {
+    width: 16px;
+    height: 16px;
+    background-position: -128px 0;
+}
+
+.mime-cfm {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -16px;
+}
+
+.mime-chm {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -16px;
+}
+
+.mime-class {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -16px;
+}
+
+.mime-conf {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -16px;
+}
+
+.mime-cpp {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -16px;
+}
+
+.mime-cs {
+    width: 16px;
+    height: 16px;
+    background-position: -80px -16px;
+}
+
+.mime-css {
+    width: 16px;
+    height: 16px;
+    background-position: -96px -16px;
+}
+
+.mime-csv {
+    width: 16px;
+    height: 16px;
+    background-position: -112px -16px;
+}
+
+.mime-deb {
+    width: 16px;
+    height: 16px;
+    background-position: -128px -16px;
+}
+
+.mime-divx {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -32px;
+}
+
+.mime-doc {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -32px;
+}
+
+.mime-dot {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -32px;
+}
+
+.mime-eml {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -32px;
+}
+
+.mime-enc {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -32px;
+}
+
+.mime-file {
+    width: 16px;
+    height: 16px;
+    background-position: -80px -32px;
+}
+
+.mime-gif {
+    width: 16px;
+    height: 16px;
+    background-position: -96px -32px;
+}
+
+.mime-gz {
+    width: 16px;
+    height: 16px;
+    background-position: -112px -32px;
+}
+
+.mime-hlp {
+    width: 16px;
+    height: 16px;
+    background-position: -128px -32px;
+}
+
+.mime-htm {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -48px;
+}
+
+.mime-html {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -48px;
+}
+
+.mime-image {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -48px;
+}
+
+.mime-iso {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -48px;
+}
+
+.mime-jar {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -48px;
+}
+
+.mime-java {
+    width: 16px;
+    height: 16px;
+    background-position: -80px -48px;
+}
+
+.mime-jpeg {
+    width: 16px;
+    height: 16px;
+    background-position: -96px -48px;
+}
+
+.mime-jpg {
+    width: 16px;
+    height: 16px;
+    background-position: -112px -48px;
+}
+
+.mime-js {
+    width: 16px;
+    height: 16px;
+    background-position: -128px -48px;
+}
+
+.mime-lua {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -64px;
+}
+
+.mime-m {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -64px;
+}
+
+.mime-mm {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -64px;
+}
+
+.mime-mov {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -64px;
+}
+
+.mime-mp3 {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -64px;
+}
+
+.mime-mpg {
+    width: 16px;
+    height: 16px;
+    background-position: -80px -64px;
+}
+
+.mime-odc {
+    width: 16px;
+    height: 16px;
+    background-position: -96px -64px;
+}
+
+.mime-odf {
+    width: 16px;
+    height: 16px;
+    background-position: -112px -64px;
+}
+
+.mime-odg {
+    width: 16px;
+    height: 16px;
+    background-position: -128px -64px;
+}
+
+.mime-odi {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -80px;
+}
+
+.mime-odp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -80px;
+}
+
+.mime-ods {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -80px;
+}
+
+.mime-odt {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -80px;
+}
+
+.mime-ogg {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -80px;
+}
+
+.mime-pdf {
+    width: 16px;
+    height: 16px;
+    background-position: -80px -80px;
+}
+
+.mime-pgp {
+    width: 16px;
+    height: 16px;
+    background-position: -96px -80px;
+}
+
+.mime-php {
+    width: 16px;
+    height: 16px;
+    background-position: -112px -80px;
+}
+
+.mime-pl {
+    width: 16px;
+    height: 16px;
+    background-position: -128px -80px;
+}
+
+.mime-png {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -96px;
+}
+
+.mime-ppt {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -96px;
+}
+
+.mime-ps {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -96px;
+}
+
+.mime-py {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -96px;
+}
+
+.mime-ram {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -96px;
+}
+
+.mime-rar {
+    width: 16px;
+    height: 16px;
+    background-position: -80px -96px;
+}
+
+.mime-rb {
+    width: 16px;
+    height: 16px;
+    background-position: -96px -96px;
+}
+
+.mime-rm {
+    width: 16px;
+    height: 16px;
+    background-position: -112px -96px;
+}
+
+.mime-rpm {
+    width: 16px;
+    height: 16px;
+    background-position: -128px -96px;
+}
+
+.mime-rtf {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -112px;
+}
+
+.mime-sig {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -112px;
+}
+
+.mime-sql {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -112px;
+}
+
+.mime-swf {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -112px;
+}
+
+.mime-sxc {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -112px;
+}
+
+.mime-sxd {
+    width: 16px;
+    height: 16px;
+    background-position: -80px -112px;
+}
+
+.mime-sxi {
+    width: 16px;
+    height: 16px;
+    background-position: -96px -112px;
+}
+
+.mime-sxw {
+    width: 16px;
+    height: 16px;
+    background-position: -112px -112px;
+}
+
+.mime-tar {
+    width: 16px;
+    height: 16px;
+    background-position: -128px -112px;
+}
+
+.mime-tex {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -128px;
+}
+
+.mime-tgz {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -128px;
+}
+
+.mime-txt {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -128px;
+}
+
+.mime-vcf {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -128px;
+}
+
+.mime-video {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -128px;
+}
+
+.mime-vsd {
+    width: 16px;
+    height: 16px;
+    background-position: -80px -128px;
+}
+
+.mime-wav {
+    width: 16px;
+    height: 16px;
+    background-position: -96px -128px;
+}
+
+.mime-wma {
+    width: 16px;
+    height: 16px;
+    background-position: -112px -128px;
+}
+
+.mime-wmv {
+    width: 16px;
+    height: 16px;
+    background-position: -128px -128px;
+}
+
+.mime-xls {
+    width: 16px;
+    height: 16px;
+    background-position: -144px 0;
+}
+
+.mime-xml {
+    width: 16px;
+    height: 16px;
+    background-position: -144px -16px;
+}
+
+.mime-xpi {
+    width: 16px;
+    height: 16px;
+    background-position: -144px -32px;
+}
+
+.mime-xvid {
+    width: 16px;
+    height: 16px;
+    background-position: -144px -48px;
+}
+
+.mime-zip {
+    width: 16px;
+    height: 16px;
+    background-position: -144px -64px;
+}
