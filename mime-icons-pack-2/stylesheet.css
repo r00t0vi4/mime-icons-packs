@@ -1,0 +1,263 @@
+.mime {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.mime-3gp {
+    width: 32px;
+    height: 32px;
+    background-position: 0 0;
+}
+
+.mime-ace {
+    width: 32px;
+    height: 32px;
+    background-position: -32px 0;
+}
+
+.mime-asf {
+    width: 32px;
+    height: 32px;
+    background-position: -64px 0;
+}
+
+.mime-bat {
+    width: 32px;
+    height: 32px;
+    background-position: -96px 0;
+}
+
+.mime-bin {
+    width: 32px;
+    height: 32px;
+    background-position: -128px 0;
+}
+
+.mime-bmp {
+    width: 32px;
+    height: 32px;
+    background-position: -160px 0;
+}
+
+.mime-bup {
+    width: 32px;
+    height: 32px;
+    background-position: 0 -32px;
+}
+
+.mime-cab {
+    width: 32px;
+    height: 32px;
+    background-position: -32px -32px;
+}
+
+.mime-cda {
+    width: 32px;
+    height: 32px;
+    background-position: -64px -32px;
+}
+
+.mime-cdl {
+    width: 32px;
+    height: 32px;
+    background-position: -96px -32px;
+}
+
+.mime-chm {
+    width: 32px;
+    height: 32px;
+    background-position: -128px -32px;
+}
+
+.mime-divx {
+    width: 32px;
+    height: 32px;
+    background-position: -160px -32px;
+}
+
+.mime-dmg {
+    width: 32px;
+    height: 32px;
+    background-position: 0 -64px;
+}
+
+.mime-doc {
+    width: 32px;
+    height: 32px;
+    background-position: -32px -64px;
+}
+
+.mime-dvf {
+    width: 32px;
+    height: 32px;
+    background-position: -64px -64px;
+}
+
+.mime-dwg {
+    width: 32px;
+    height: 32px;
+    background-position: -96px -64px;
+}
+
+.mime-eml {
+    width: 32px;
+    height: 32px;
+    background-position: -128px -64px;
+}
+
+.mime-exe {
+    width: 32px;
+    height: 32px;
+    background-position: -160px -64px;
+}
+
+.mime-htm {
+    width: 32px;
+    height: 32px;
+    background-position: 0 -96px;
+}
+
+.mime-html {
+    width: 32px;
+    height: 32px;
+    background-position: -32px -96px;
+}
+
+.mime-ifo {
+    width: 32px;
+    height: 32px;
+    background-position: -64px -96px;
+}
+
+.mime-m4b {
+    width: 32px;
+    height: 32px;
+    background-position: -96px -96px;
+}
+
+.mime-m4p {
+    width: 32px;
+    height: 32px;
+    background-position: -128px -96px;
+}
+
+.mime-mov {
+    width: 32px;
+    height: 32px;
+    background-position: -160px -96px;
+}
+
+.mime-mp4 {
+    width: 32px;
+    height: 32px;
+    background-position: 0 -128px;
+}
+
+.mime-mpeg {
+    width: 32px;
+    height: 32px;
+    background-position: -32px -128px;
+}
+
+.mime-mpg {
+    width: 32px;
+    height: 32px;
+    background-position: -64px -128px;
+}
+
+.mime-msi {
+    width: 32px;
+    height: 32px;
+    background-position: -96px -128px;
+}
+
+.mime-ogg {
+    width: 32px;
+    height: 32px;
+    background-position: -128px -128px;
+}
+
+.mime-psd {
+    width: 32px;
+    height: 32px;
+    background-position: -160px -128px;
+}
+
+.mime-pub {
+    width: 32px;
+    height: 32px;
+    background-position: 0 -160px;
+}
+
+.mime-ram {
+    width: 32px;
+    height: 32px;
+    background-position: -32px -160px;
+}
+
+.mime-rar {
+    width: 32px;
+    height: 32px;
+    background-position: -64px -160px;
+}
+
+.mime-rm {
+    width: 32px;
+    height: 32px;
+    background-position: -96px -160px;
+}
+
+.mime-rmvb {
+    width: 32px;
+    height: 32px;
+    background-position: -128px -160px;
+}
+
+.mime-rtf {
+    width: 32px;
+    height: 32px;
+    background-position: -160px -160px;
+}
+
+.mime-sea {
+    width: 32px;
+    height: 32px;
+    background-position: -192px 0;
+}
+
+.mime-thm {
+    width: 32px;
+    height: 32px;
+    background-position: -192px -32px;
+}
+
+.mime-ttf {
+    width: 32px;
+    height: 32px;
+    background-position: -192px -64px;
+}
+
+.mime-vcd {
+    width: 32px;
+    height: 32px;
+    background-position: -192px -96px;
+}
+
+.mime-vob {
+    width: 32px;
+    height: 32px;
+    background-position: -192px -128px;
+}
+
+.mime-wav {
+    width: 32px;
+    height: 32px;
+    background-position: -192px -160px;
+}
+
+.mime-wps {
+    width: 32px;
+    height: 32px;
+    background-position: 0 -192px;
+}
